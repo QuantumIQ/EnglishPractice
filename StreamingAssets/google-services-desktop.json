@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "927436355348",
+    "firebase_url": "https://funenglishpratices-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "funenglishpratices",
+    "storage_bucket": "funenglishpratices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927436355348:android:ba6e6afbe91e3d52a5b401",
+        "android_client_info": {
+          "package_name": "com.EnglishCenter.WorldLinkEnglish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSyTKM37M0vm4c6ktFYnIQE0tCcQOXZ1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
